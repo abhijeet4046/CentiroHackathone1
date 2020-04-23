@@ -38,14 +38,13 @@ namespace ClassLibrary1
             await page.WaitForSelectorAsync("#password");
             await page.FocusAsync("#password");
             await page.Keyboard.TypeAsync("DPNike2018!");
-            //var timeout = TimeSpan.FromSeconds(6).Milliseconds;
-            //var opitions = new NavigationOptions();
-            //opitions.WaitUntil = new[] { WaitUntilNavigation.Networkidle0 };
-            //opitions.Timeout = 4000;
+            var timeout = TimeSpan.FromSeconds(6).Milliseconds;
+            var opitions = new NavigationOptions();
+            opitions.WaitUntil = new[] { WaitUntilNavigation.Networkidle0 };
+            opitions.Timeout = 4000;
             
             await page.ClickAsync("#btnLogin");
-
-             page.WaitForNavigationAsync();
+            await page.WaitForNavigationAsync();
             //await page.WaitForNavigationAsync(opitions);
             //await page.WaitForTimeoutAsync(timeout);
 
