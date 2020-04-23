@@ -1,0 +1,8 @@
+C:\HackathoneDemo\DeliveryPerformance.UI.Test\ClassLibrary1\bin\Debug\netcoreapp3.0\ClassLibrary1.deps.json
+C:\HackathoneDemo\DeliveryPerformance.UI.Test\ClassLibrary1\bin\Debug\netcoreapp3.0\ClassLibrary1.dll
+C:\HackathoneDemo\DeliveryPerformance.UI.Test\ClassLibrary1\obj\Debug\netcoreapp3.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\HackathoneDemo\DeliveryPerformance.UI.Test\ClassLibrary1\obj\Debug\netcoreapp3.0\ClassLibrary1.AssemblyInfo.cs
+C:\HackathoneDemo\DeliveryPerformance.UI.Test\ClassLibrary1\bin\Debug\netcoreapp3.0\ClassLibrary1.pdb
+C:\HackathoneDemo\DeliveryPerformance.UI.Test\ClassLibrary1\obj\Debug\netcoreapp3.0\ClassLibrary1.dll
+C:\HackathoneDemo\DeliveryPerformance.UI.Test\ClassLibrary1\obj\Debug\netcoreapp3.0\ClassLibrary1.pdb
+C:\HackathoneDemo\DeliveryPerformance.UI.Test\ClassLibrary1\obj\Debug\netcoreapp3.0\ClassLibrary1.csprojAssemblyReference.cache

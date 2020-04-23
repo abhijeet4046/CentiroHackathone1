@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\HackathoneDemo\\DeliveryPerformance.UI.Test\\ClassLibrary1\\ClassLibrary1.csproj": {}
+  },
+  "projects": {
+    "C:\\HackathoneDemo\\DeliveryPerformance.UI.Test\\ClassLibrary1\\ClassLibrary1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\HackathoneDemo\\DeliveryPerformance.UI.Test\\ClassLibrary1\\ClassLibrary1.csproj",
+        "projectName": "ClassLibrary1",
+        "projectPath": "C:\\HackathoneDemo\\DeliveryPerformance.UI.Test\\ClassLibrary1\\ClassLibrary1.csproj",
+        "packagesPath": "C:\\Users\\abhijeetp\\.nuget\\packages\\",
+        "outputPath": "C:\\HackathoneDemo\\DeliveryPerformance.UI.Test\\ClassLibrary1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\abhijeetp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://centiro.pkgs.visualstudio.com/_packaging/Internal/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.VisualStudio.QualityTools.UnitTestFramework": {
+              "target": "Package",
+              "version": "[11.0.50727.1, )"
+            },
+            "PuppeteerSharp": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
